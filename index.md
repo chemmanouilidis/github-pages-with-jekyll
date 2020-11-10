@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my GitHub Page
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. My name is Emmanouilidis Christos
